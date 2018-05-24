@@ -1,0 +1,20 @@
+-- Initialization:
+{states: Q0,Q1,A,R}
+{start: Q0}
+{accept: A}
+{reject: R}
+{alpha: 0,1,#}
+{tape-alpha: 0,1,#,x}
+
+--rwRt
+--rRl
+--rRt
+--rwLT
+--rLl
+--rLt
+
+rwRt Q0 0 x Q1;
+rwLt Q1 0 x Q0;
+rwRt Q0 x 0 Q1;
+rwLt Q1 x 0 Q0;
+

@@ -5,3 +5,7 @@ C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\bi
 C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
 C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.exe
 C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Chand\Documents\GitHub\turingMachine\Project2\bin\Debug\Project2.exe.config
+C:\Users\Chand\Documents\GitHub\turingMachine\Project2\obj\Debug\Project2.exe
+C:\Users\Chand\Documents\GitHub\turingMachine\Project2\obj\Debug\Project2.pdb
+C:\Users\Chand\Documents\GitHub\turingMachine\Project2\bin\Debug\TuringMachine.exe.config
