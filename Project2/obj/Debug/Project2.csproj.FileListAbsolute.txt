@@ -1,0 +1,7 @@
+C:\Users\Chand\Desktop\getrepository\Project2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Chand\Desktop\Master Folder\getrepository\Project2\Project2\Project2\obj\Debug\Project2.pdb
